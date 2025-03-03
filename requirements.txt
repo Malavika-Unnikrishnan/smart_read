@@ -28,6 +28,7 @@ debugpy==1.8.1
 decorator==5.1.1
 distlib==0.3.8
 Django==4.2.7
+python-dotenv==1.0.0
 executing==2.0.1
 fastapi==0.115.6
 ffmpy==0.5.0
